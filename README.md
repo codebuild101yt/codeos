@@ -23,10 +23,7 @@ Usage
 Once installed, you can use the OS just like any other Ubuntu distribution. However, the system comes pre-installed with all the tools and applications you need for coding.
 
 Support
-If you encounter any issues or have any questions, please contact our support team at support@codingos.com.
+If you encounter any issues or have any questions, please contact our support team at vicelikeidsic947@gmail.com.
 
 Contributing
 We welcome contributions from the community. If you would like to contribute, please submit a pull request or open an issue on our GitHub repository.
-
-License
-This operating system is released under the MIT License. See the LICENSE file for more information.
